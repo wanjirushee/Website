@@ -1,0 +1,36 @@
+header nav ul li a{
+    color:#ccc;
+    padding:20px;
+    float:left;
+    font-size:14px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+header nav ul li a:hover{
+  color:cyan;
+}
+
+body{
+    background-color:#000 ;
+    color:#222;
+    font-family:Arial,Helvetica,sans-serif;
+} 
+
+header nav ul {
+    list-style:none;
+    padding: 0;
+}
+
+header nav ul li a#onlink:hover{
+   color:purple; 
+}
+
+.container {
+    float:right;
+    text-align:center ;
+}
+
+h1{
+    text-align: center;
+}
